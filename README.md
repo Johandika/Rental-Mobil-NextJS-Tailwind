@@ -2,7 +2,7 @@
 
 ## Description
 
-"Car Rental" is a car loan application. We can search and filter by car type and year of release. This app is built with Next JS, Tailwind CSS, and Rapid API. there are 2 branches, the application branch with the SSR, and CSR approach. And of course, this web is fully responsive.
+"Car Rental" is a car loan application. We can search and filter by car type and year of release. This app is built with Next JS Typescript, Tailwind CSS, and Rapid API. there are 2 branches, the application branch with the SSR, and CSR approach. And of course, this web is fully responsive.
 
 ## Live Website
 
